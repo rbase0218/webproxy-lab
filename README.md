@@ -5,7 +5,7 @@
 ####################################################################
 
 This directory contains the files you will need for the CS:APP Proxy
-Lab.
+Lab
 
 proxy.c
 csapp.h
